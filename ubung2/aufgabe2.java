@@ -1,10 +1,9 @@
 package ubung2;
 
 public class aufgabe2 {
-
-//     Schreiben Sie ein Java Programm, das zeigt, dass die booleschen Operatoren in
-// Java die DeMorganschen Gesetze erfüllen. Bedenken Sie, dass Sie alle vier
-// möglichen Wahrheitswertbelegungen für die zwei booleschen Variablen testen.
+    // Schreiben Sie ein Java Programm, das zeigt, dass die booleschen Operatoren in
+    // Java die DeMorganschen Gesetze erfüllen. Bedenken Sie, dass Sie alle vier
+    // möglichen Wahrheitswertbelegungen für die zwei booleschen Variablen testen.
     public static void main(String[] args) {
         boolean a = false, b = false;
         for (int i = 0; i < 4; ++i) {
